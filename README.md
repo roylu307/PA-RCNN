@@ -24,9 +24,9 @@ Selected supported methods are shown in the below table. The results are the 3D 
 * All models are trained with 4 NVIDIA RTX2080Ti GPUs and are available for download.
 * The training time is measured with 4 NVIDIA RTX2080Ti GPUs and PyTorch 1.3.
 
-|                                             | training time | Car@R40 | Pedestrian@R40 | Cyclist@R40  | log | download |
-|---------------------------------------------|----------:|:-------:|:-------:|:-------:|:----:|:---------:|
-| [PDV](tools/cfgs/kitti_models/pa_rcnn_pv.yaml) |~14 hours| 85.77 | 62.98 | 73.13 | |
+|                                             | training time | Car@R40 | Pedestrian@R40 | Cyclist@R40  |
+|---------------------------------------------|----------:|:-------:|:-------:|:-------:|
+| [PA-RCNN-PV](tools/cfgs/kitti_models/pa_rcnn_pv.yaml) |~14 hours| 85.77 | 62.98 | 73.13 |
 
 ### Waymo Open Dataset Baselines
 We could not provide the above pretrained models due to [Waymo Dataset License Agreement](https://waymo.com/open/terms/),
