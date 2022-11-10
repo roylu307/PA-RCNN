@@ -25,7 +25,7 @@ Selected supported methods are shown in the below table. The results are the 3D 
 
 |                                             | training time | Car@R40 | Pedestrian@R40 | Cyclist@R40  |
 |---------------------------------------------|----------:|:-------:|:-------:|:-------:|
-| [PA-RCNN-PV](tools/cfgs/kitti_models/pa_rcnn_pv.yaml) |~14 hours| 85.77 | 62.98 | 73.13 |
+| [PA-RCNN-PV](tools/cfgs/kitti_models/pa_rcnn_pv_resnet.yaml) |~14 hours| 85.77 | 62.98 | 73.13 |
 
 ### Waymo Open Dataset Baselines
 We could not provide the above pretrained models due to [Waymo Dataset License Agreement](https://waymo.com/open/terms/),
