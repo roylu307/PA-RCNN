@@ -10,15 +10,14 @@ We provide code and training configurations of PA-RCNN on the KITTI and Waymo Op
 ![Algorithm Overview](docs/overview.png)
 
 ## Overview
-- [Changelog](#changelog)
-- [Model Zoo](#model-zoo)
+- [Results](#results)
 - [Installation](docs/INSTALL.md)
 - [Quick Demo](docs/DEMO.md)
 - [Getting Started](docs/GETTING_STARTED.md)
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
 
-
+## Results
 ### KITTI 3D Object Detection Baselines
 Selected supported methods are shown in the below table. The results are the 3D detection performance of moderate difficulty on the *val* set of KITTI dataset.
 * All models are trained with 4 NVIDIA RTX2080Ti GPUs and are available for download.
