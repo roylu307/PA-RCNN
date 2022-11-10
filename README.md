@@ -7,7 +7,7 @@ The code is mainly based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 ## Introduction
 We provide code and training configurations of PA-RCNN on the KITTI and Waymo Open dataset.  
 
-![PDV diagram](docs/overview.png)
+![Algorithm Overview](docs/overview.png)
 
 ## Overview
 - [Changelog](#changelog)
