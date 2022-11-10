@@ -17,7 +17,6 @@ We provide code and training configurations of PA-RCNN on the KITTI and Waymo Op
 - [Getting Started](docs/GETTING_STARTED.md)
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
-- [Citation](#citation)
 
 
 ### KITTI 3D Object Detection Baselines
